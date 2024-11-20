@@ -23,11 +23,15 @@ Then:
 - Set Hardware accelerator to GPU
 - Click Save
 3. Mount your Drive. This can be done with a cell:
-  `from google.colab import drive
-  drive.mount('/content/drive')`
+  ```
+  from google.colab import drive
+  drive.mount('/content/drive')
+  ```
 4. Add the Drive files to the Colab runtime:
-  `import sys
-  sys.path.append('/content/drive/MyDrive/<PATH_TO_YOUR_FILES>')`
+```
+import sys
+sys.path.append('/content/drive/MyDrive/<PATH_TO_YOUR_FILES>')
+```
  
 ## Credits
 This workshop was set up by @pyladiesams and @flozefi.

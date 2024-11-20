@@ -14,7 +14,6 @@ Whether you're interested in LLMs, online safety, or the mechanics of content mo
   
 ## Setting Up Notebook for Part II (Hands-On)
 
-### Option 1
 Download the files from Google Drive https://drive.google.com/drive/folders/1VGcRvOlyto0SxMmU9Y5Ds2ySgASB5-IE?usp=sharing and upload to your Drive. 
 
 Then:
@@ -29,10 +28,6 @@ Then:
 4. Add the Drive files to the Colab runtime:
   `import sys
   sys.path.append('/content/drive/MyDrive/<PATH_TO_YOUR_FILES>')`
- 
-### Option 2
-1. Install Git Large File Storage from https://git-lfs.com/.
-2. Clone the repository.
  
 ## Credits
 This workshop was set up by @pyladiesams and @flozefi.

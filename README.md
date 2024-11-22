@@ -10,7 +10,6 @@ Whether you're interested in LLMs, online safety, or the mechanics of content mo
 
 ## Requirements
 - Google Colab with GPU.
-- If downloading this repository, Git Large File Storage from https://git-lfs.com/.
   
 ## Setting Up Notebook for Part II (Hands-On)
 

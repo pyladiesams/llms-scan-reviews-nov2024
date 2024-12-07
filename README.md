@@ -1,5 +1,5 @@
 # LLMs in Action: How Booking.com Scans, Detects, and Monitors Fake and Unsafe Content
-### Presentation: [Pyladies Workshop 20 Nov 2024 - Booking.com  (2).pdf](https://github.com/pyladiesams/llms-scan-reviews-nov2024/blob/72d310e253ddd8e5a73f092b09299d39651e7556/Pyladies%20Workshop%2020%20Nov%202024%20-%20Booking.com%20%20(2).pdf)
+### Presentation: [Pyladies Workshop 20 Nov 2024 - Booking.com.pdf](./Pyladies%20Workshop%2020%20Nov%202024%20-%20Booking.com.pdf)
 
 ## Workshop description
 Explore the power of LLMs in this hands-on workshop featuring real use cases from Booking.com. Learn how to scan and detect fake and unsafe content in reviews, and discover how AI is applied to keep reviews trustworthy and the platform secure. 

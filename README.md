@@ -13,7 +13,7 @@ Whether you're interested in LLMs, online safety, or the mechanics of content mo
   
 ## Setting Up Notebook for Part II (Hands-On)
 
-Download the files from Google Drive https://drive.google.com/drive/folders/1VGcRvOlyto0SxMmU9Y5Ds2ySgASB5-IE?usp=sharing and upload to your Drive. 
+Download [the files from Google Drive](https://drive.google.com/drive/folders/1VGcRvOlyto0SxMmU9Y5Ds2ySgASB5-IE?usp=sharing) and upload them to your Google Drive. It can take some time as you need to download around 4GB. It contains a huge dataset and some pre-trained model weights. Hence the size.
 
 Then:
 1. Open the Notebook in Google Colab.
